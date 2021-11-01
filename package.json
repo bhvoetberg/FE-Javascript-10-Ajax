@@ -1,0 +1,20 @@
+{
+  "name": "10-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "give-me-a-joke": "^0.5.1",
+    "random-joke-getter": "^2.0.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
